@@ -1,6 +1,6 @@
-# PPV — Trabajo remoto desde Bolivia
+# PVP — Trabajo remoto desde Bolivia
 
-Guía interactiva del método PPV (Permissionless Value Proposition) para conseguir trabajo remoto desde Bolivia.
+Guía interactiva del método PVP (Permissionless Value Proposition) para conseguir trabajo remoto desde Bolivia.
 
 ## Deployment
 
